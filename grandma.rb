@@ -1,4 +1,13 @@
 # Write a speak_to_grandma method.
+"I love you grandma".upcase
+
+"Hi grandma".lowcase
+
+"Hi grandma".upcase
+
+"How are you grandma".lowcase
+
+"How are you grandma".upcase
 
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
