@@ -1,4 +1,9 @@
 # Write a speak_to_grandma method.
+"Hi grandma"
+
+def speak_to_grandma
+  puts "What?".upcase
+end 
 
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
