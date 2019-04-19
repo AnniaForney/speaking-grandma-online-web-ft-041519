@@ -1,5 +1,7 @@
 # Write a speak_to_grandma method.
-"Hi grandma"
+"I love you grandma".upcase
+
+""
 
 def speak_to_grandma
   puts "What?".upcase
